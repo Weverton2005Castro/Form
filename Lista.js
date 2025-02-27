@@ -1,6 +1,6 @@
 const addloading = () => {
     const button = document.querySelector('button');
-    button.innerHTML = '<img src="img/OIP-removebg-preview.png" class="loading">';
+    button.innerHTML = '<img src="imgs/OIP-removebg-preview.png" class="loading">';
 }
 
 const removeloading = () => {
